@@ -1,0 +1,1 @@
+# Upload this folder to GitHub Pages, Netlify or cPanel.
